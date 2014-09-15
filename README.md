@@ -7,11 +7,11 @@ This is a boilerplate Grunt project to get you started running tasks like a glad
 
 ## Setup
 
-Once the repo is cloned, simply install the node modules.
+Assuming that you already have the Grunt CLI installed, simply clone the repo and install the node modules.
 
     npm install
 
-Then just initiate the default task.
+Then initiate the default task.
 
     grunt
 
