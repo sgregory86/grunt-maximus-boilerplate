@@ -16,9 +16,3 @@ Then initiate the default task.
     grunt
 
 Done, happy tasking!
-
-## Creator
-
-**Steven Gregory**
-
-- <http://twitter.com/sgregory>
