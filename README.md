@@ -1,6 +1,8 @@
 Grunt Maximus Boilerplate
 ====================
 
+![](http://i.imgur.com/hbSwBnd.png)
+
 ## Description
 
 This is a boilerplate Grunt project to get you started running tasks like a gladiator.
