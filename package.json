@@ -12,5 +12,18 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-htmlhint": "^0.4.1",
     "load-grunt-config": "^0.17.1"
-  }
+  },
+  "description": "Boilerplate Grunt project to get you started running tasks like a gladiator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevengregory/grunt-maximus-boilerplate.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevengregory/grunt-maximus-boilerplate/issues"
+  },
+  "homepage": "https://github.com/stevengregory/grunt-maximus-boilerplate#readme"
 }
