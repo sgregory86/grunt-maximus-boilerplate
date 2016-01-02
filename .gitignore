@@ -1,4 +1,4 @@
-# Ignore Bower & Node
+# Ignore Node
 node_modules
 
 # Ignore compiled CSS & JS
