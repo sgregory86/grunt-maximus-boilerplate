@@ -1,5 +1,5 @@
-'use strict';
+(function() {
+    'use strict';
 
-var gladiator = (function() {
-    console.log(quotes.GLADIATOR);
+    console.log('My name is Gladiator.');
 })();

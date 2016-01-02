@@ -1,1 +1,8 @@
+# Ignore Bower & Node
 node_modules
+
+# Ignore compiled CSS & JS
+src/css/main.css
+src/css/main.min.css
+src/js/main.js
+src/js/main.min.js

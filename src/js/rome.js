@@ -1,5 +1,5 @@
-'use strict';
+(function() {
+    'use strict';
 
-var rome = (function() {
-    console.log(quotes.ROME);
+    console.log('I\'ve seen much of the rest of the world. It is brutal and cruel and dark, Rome is the light.');
 })();
